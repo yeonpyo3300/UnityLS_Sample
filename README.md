@@ -1,0 +1,1 @@
+This is Unity sample project to test input system.
